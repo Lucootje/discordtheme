@@ -1,0 +1,2 @@
+# discordtheme
+better discord theme
